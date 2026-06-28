@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on: **Web Development and Open Source Projects**
 - 🤝 I’m looking for help with: **Full Stack Development and System Design**
 - 💬 Ask me about: **HTML, CSS, JavaScript, Java, Git & GitHub**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **vivekmishra071105@gmail.com**
 - ⚡ Fun fact: **I love building projects and learning new technologies every day.**
 
 
